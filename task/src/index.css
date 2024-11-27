@@ -2,7 +2,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 100px;
+  margin-top: 80px;
 }
 div{
   display: flex;
@@ -13,6 +13,9 @@ input{
   background-color: bisque;
   padding: 5px;
   
+}
+label{
+  margin-bottom: 10px;
 }
 textarea{
   background-color: bisque;
